@@ -92,6 +92,6 @@ HCURSOR CtestDialogBasedApplicationDlg::OnQueryDragIcon()
 void CtestDialogBasedApplicationDlg::OnBnClickedOk()
 {
 	// TODO: Add your control notification handler code here
-	AfxMessageBox(_T("hello..."));
+	AfxMessageBox(_T("hello...."));
 	CDialogEx::OnOK();
 }
